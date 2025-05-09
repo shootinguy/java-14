@@ -1,5 +1,5 @@
 const board = document.querySelector("#game_board");
-const emojis = ['🍎', '🍌', '🍓', '🍇', '🍒', '🍍', '🥝', '🍉'];
+const emojis = ['😂', '🥴', '🤓', '😒', '😠', '😍', '😥', '😆'];
 let cards = [].concat(emojis, emojis);
 let flipped_cards = [];
 let lock_board = false;
